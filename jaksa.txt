@@ -1,55 +1,31 @@
+Steve Jaksa
+PhP Assignment Part 2 
+Work Log
+CS 290
+2-15-2015
 
-commit b5ee610025860b72a57fd63f22590e723cc1d312
-Author: jaksas <jaksas@onid.oregonstate.edu>
-Start:   Sun Feb 15 20:42:50 2015 -0600
+Start: Fri Feb 13 12:53:57 2015 -0600
+End: Fri Feb 13 13:08:20 2015 -0600
+Tasks: Created database on ONID
 
-    Begin session
+Start: Fri Feb 13 21:21:37 2015 -0600
+End:   Fri Feb 13 22:03:46 2015 -0600
+Tasks: Begin working with html interface for video tracker. Stopped to read a 
+	little and decide whether I want to do this using javascript
 
-commit 2fcd737cbe8abc33c0d218e2ceed0b274f82e159
-Author: jaksas <jaksas@onid.oregonstate.edu>
-Date:   Sun Feb 15 01:55:12 2015 -0600
+Start:  Fri Feb 13 22:26:21 2015 -0600
+End: Sat Feb 14 02:58:35 2015 -0600
+Tasks: I decide to go for the cheesy one php file method. Can now delete, add, 
+	and rent videos. Still to do: implement category filter and input
+	validation.
 
-    Finished and ran through the testing protocol.
+Start:   Sun Feb 15 00:35:56 2015 -0600
+End:  	Sun Feb 15 01:55:12 2015 -0600
+Tasks:  Finished and ran through the testing protocol.
 
-commit 2885f51a9d3d88b1bcf2ee344b206e6b1806b858
-Author: jaksas <jaksas@onid.oregonstate.edu>
-Date:   Sun Feb 15 00:35:56 2015 -0600
+Start:  Sun Feb 15 20:42:50 2015 -0600     
+End:	Sun Feb 15 21:11:40 2015 -0600
+Tasks:  Final commit - finished commenting on code, doublecheck error checking
 
-    Begin new sesion
 
-commit c3082328986c0c912074351cd06a510c2c8ee5a8
-Author: jaksas <jaksas@onid.oregonstate.edu>
-Date:   Sat Feb 14 02:58:35 2015 -0600
-
-    Can delete, add, and rent videos. Still to do: implement category filter and
-
-commit 2340acea62f7609316f59ff385fb702d085df72f
-Author: jaksas <jaksas@onid.oregonstate.edu>
-Date:   Fri Feb 13 22:26:21 2015 -0600
-
-    New session. I decide to go for the cheesy one php file method and improve t
-
-commit d7df245d5fb4daeea95fce66beb00ac8b9a107d8
-Author: jaksas <jaksas@onid.oregonstate.edu>
-Date:   Fri Feb 13 22:03:46 2015 -0600
-
-    Stop here to read a little and decide whether I want to do this using javasc
-
-commit f61f4a4c5569282a8a661190081a91b4625c6376
-Author: jaksas <jaksas@onid.oregonstate.edu>
-Date:   Fri Feb 13 21:21:37 2015 -0600
-
-    Session 2: Begin working with html interface for video tracker
-
-commit a680bf451562f14155ffee3af02104901cc8e5c3
-Author: jaksas <jaksas@onid.oregonstate.edu>
-Date:   Fri Feb 13 13:08:20 2015 -0600
-
-    Created database on ONID
-
-commit ce684342f3c0878d8428c737bcc3b27f0d930dc5
-Author: jaksas <jaksas@onid.oregonstate.edu>
-Date:   Fri Feb 13 12:53:57 2015 -0600
-
-    Initial commit
-(END)
+    
